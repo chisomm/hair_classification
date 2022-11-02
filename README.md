@@ -23,7 +23,7 @@ SVM classifier was more accurate overall and more accurate when classifying hog 
 
 KNN was more accurate when classifying tiny features than hog features and peak accuracy was k >= 20 and  k ≈ 12 respectively.
 
-Due to the high dimensional data it is not surprisig that the SVM classifier was more accurate in deciphering between hair and non_hair images
+Due to the high dimensional data it is not surprising that the SVM classifier was more accurate in deciphering between hair and non_hair images
 
 A particularly notable result is that the accuracy of the KNN model was higher for the tiny features however had a much higher k value which would result in underfitting the data.
 
