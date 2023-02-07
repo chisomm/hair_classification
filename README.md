@@ -10,14 +10,14 @@ Inspired by research paper:
   publisher={Elsevier}
 }
 
-Utilised hair or non_hair image patches from the Figaro-1k dataset training and testing sets
-Hair image patches represented 7 different classes of hair textures: straight, wavy, curly, kinky, braids, dreadlocks and short-men
+Utilised hair or non_hair image patches from the Figaro-1k dataset training and testing sets.
+Hair image patches represented 7 different classes of hair textures: straight, wavy, curly, kinky, braids, dreadlocks and short.
 
-Extracted tiny features from training and testing images
+Extracted tiny features from training and testing images.
 
-Extracted hog features from training and testing images
+Extracted hog features from training and testing images.
 
-Classified each feature with KNN and SVM algorithms
+Classified each feature with KNN and SVM algorithms.
 
 SVM classifier was more accurate overall and more accurate when classifying hog features.  
 
